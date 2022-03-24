@@ -25,6 +25,7 @@ This repository was created on 20.03.2022
 
 <br>
 
+
 ## Importing Better Swing
 
 Add these to your build.gradle file
@@ -86,9 +87,16 @@ Note: Check out the other classes for many utility methods!
 
 <br>
 
+
 ### Some Notes
 - Better Swing was developed by only one person (Oğuzhan Topaloğlu)
 - Wiki won't be coming soon.
+
+<br>
+
+## Projects Using Better Swing
+
+- <a href="https://github.com/oziris78/tunerik_kosusu">Tünerik Koşusu</a>
 
 
 
