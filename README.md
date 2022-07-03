@@ -1,17 +1,18 @@
 
+
 # Better Swing
 
 <p> <!-- BADGES -->
 <!-- badge 1 -->
-    <a href="https://github.com/oziris78/telek-math/stargazers">
+    <a href="https://github.com/oziris78/better-swing/stargazers">
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/oziris78/better-swing">
     </a>
 <!-- badge 2 -->
-    <a href="https://github.com/oziris78/telek-math/network">
+    <a href="https://github.com/oziris78/better-swing/network">
         <img alt="GitHub forks" src="https://img.shields.io/github/forks/oziris78/better-swing">
     </a>
 <!-- badge 3 -->
-    <a href="https://github.com/oziris78/telek-math/blob/master/LICENSE.txt">
+    <a href="https://github.com/oziris78/better-swing/blob/master/LICENSE.txt">
         <img alt="GitHub license" src="https://img.shields.io/github/license/oziris78/better-swing?color=blue"/>
     </a>
 <!-- badge 4 -->
@@ -96,7 +97,7 @@ Note: Check out the other classes for many utility methods!
 
 ## Projects Using Better Swing
 
-- <a href="https://github.com/oziris78/tunerik_kosusu">Tünerik Koşusu</a>
+- <a href="https://github.com/oziris78/tunerik-kosusu">Tünerik Koşusu</a>
 
 
 
